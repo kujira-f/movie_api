@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  poster_path: MyString
+  genre: MyString
+  overview: MyString
+  vote_average: MyString
+  release_date: MyString
+
+two:
+  title: MyString
+  poster_path: MyString
+  genre: MyString
+  overview: MyString
+  vote_average: MyString
+  release_date: MyString
